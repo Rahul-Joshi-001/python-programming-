@@ -1,4 +1,9 @@
-# f = open("demo.txt","r")
+PS E:\python collage> streamlit run widgets.py                      
+Usage: streamlit run [OPTIONS] TARGET [ARGS]...
+Try 'streamlit run --help' for help.
+
+Error: Invalid value: File does not exist: widgets.py
+PS E:\python collage> # f = open("demo.txt","r")
 # data = f.read(5)
 # print(data)
 # print(type(data))
